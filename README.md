@@ -1,7 +1,7 @@
 # Dominik Szombathy
 
-**Theoretical Physicist · Quantum Computing Researcher · PhD Candidate**  
-Heidelberg / Budapest &nbsp;·&nbsp; Open to opportunities
+**Theoretical Physicist · Quantum Computing Researcher · PhD**  
+Heidelberg / Budapest &nbsp;·&nbsp
 
 ---
 
