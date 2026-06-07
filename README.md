@@ -31,7 +31,7 @@ A from-scratch Python tensor-network framework for 1D quantum lattice simulation
 
 ---
 
-## Research
+# Research
 
 - Many-body quantum systems and tensor network methods
 - Magic states, stabilizer formalism, and quantum computational complexity
@@ -71,7 +71,12 @@ A from-scratch Python tensor-network framework for 1D quantum lattice simulation
 
 ---
 
-## Stack
+# Algorithmic Programming Challenges
+
+I regularly solve algorithmic programming challenges from Project Euler and Advent of Code for personal development and fun. Due to the competitive and puzzle-based nature of these platforms, I do not publicly release full solution sets, but I use them to explore math, problem solving and algorithm design.
+
+---
+# Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
@@ -88,7 +93,7 @@ A from-scratch Python tensor-network framework for 1D quantum lattice simulation
 
 ---
 
-## Contact
+# Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-szombathy-65871114a/)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FjGf_N8AAAAJ&hl=hu&authuser=1)
