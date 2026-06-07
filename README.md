@@ -1,6 +1,7 @@
 # Dominik Szombathy
 
 **Theoretical Physicist (PhD) | Quantum Information Theory | Tensor Networks & Quantum Algorithms**
+
 Heidelberg - Germany / Budapest - Hungary
 
 ---
