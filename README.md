@@ -2,7 +2,7 @@
 
 **Theoretical Physicist (PhD) | Quantum Information Theory | Tensor Networks & Quantum Algorithms**
 
-Heidelberg - Germany / Budapest - Hungary
+Munich - Germany / Budapest - Hungary
 
 ---
 
